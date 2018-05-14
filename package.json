@@ -1,0 +1,10 @@
+{
+  "name": "catplayswith",
+  "version": "1.0.0",
+  "description": "Meow",
+  "main": "index.js",
+  "repository": "https://github.com/ladysamantha/catplayswith",
+  "author": "Samantha Enders <ladysamantha@pm.me>",
+  "license": "GPL-3.0",
+  "private": false
+}
